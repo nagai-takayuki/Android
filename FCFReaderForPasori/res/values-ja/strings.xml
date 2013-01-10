@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="app_name">FCFReaderForPasori</string>
+    <string name="menu_settings">設定</string>
+    <string name="title_activity_main">FCFReaderForPasori</string>
+    
+    <string name="attendance_title">出席登録</string>
+    <string name="logview_title">出席ログ</string>
+    <string name="preference_title">設定</string>
+    <string name="title_activity_config">出席設定</string>
+    
+    <string name="screenlock_title">画面ロック</string>
+    <string name="screenunlock_title">画面ロック解除</string>
+    
+    <string name="settings_title">設定</string>
+    <string name="quit_title">終了</string>
+    
+    <string name="enableBeep_title">ビープ音</string>
+    <string name="enableBeep_summary">FCFカード読み取り成功時にビープ音を鳴らします</string>
+    
+    <string name="readKumadaiID_title">熊本大学ID読み取り</string>
+    <string name="readKumadaiID_summary">熊本大学IDを読み取ります</string>
+
+    <string name="readerName_title">リーダー名</string>
+    <string name="readerName_summary">このリーダーの名前を設定します</string>
+
+    <string name="lockNumber_title">暗証番号</string>
+    <string name="lockNumber_summary">操作ロック解除用の暗証番号を登録します</string>
+
+    <string name="logDelete_title">出席ログ消去</string>
+    <string name="logDelete_summary">出席ログを消去します</string>
+
+    <string name="detectPasori_title">Pasoriリーダ検出</string>
+    <string name="detectPasori_summary">Pasoriリーダを検出します</string>
+
+    <string name="msg_now_initializing">Pasoriリーダーの初期化中です</string>
+    <string name="msg_not_opened">出席登録開始までしばらくお待ち下さい</string>
+    <string name="msg_place_card">カードをかざして下さい</string>
+    <string name="msg_already_closed">出席登録は閉めきりました</string>
+    <string name="msg_really_delete_log">本当に出席ログを消去しますか?</string>
+    <string name="msg_enter_lockNumber">暗証番号を入力してください</string>
+    <string name="msg_correct_lockNumber">暗証番号が一致しませした</string>
+    <string name="msg_wrong_lockNumber">暗証番号が一致しませんでした</string>
+    <string name="msg_loading_data">データの読み込み中です</string>
+    <string name="msg_no_data_found">記録されているデータはありません</string>
+    
+    <string name="title_start_time">受付開始時刻</string>
+    <string name="title_end_time">受付終了時刻</string>
+    <string name="title_duration_minute">受付期間(分)</string>
+    
+    <string name="label_reset">リセット</string>
+    <string name="label_cancel">キャンセル</string>
+    
+</resources>

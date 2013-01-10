@@ -1,0 +1,62 @@
+<resources>
+
+    <string name="app_name">FCFReaderForPasori</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">FCFReaderForPasori</string>
+    <string name="attendance_title">Attendance</string>
+    <string name="logview_title">LogView</string>
+    <string name="preference_title">Preference</string>
+    <string name="screenlock_title">screen lock</string>
+    <string name="screenunlock_title">screen unlock</string>
+    <string name="settings_title">settings</string>
+    <string name="quit_title">quit</string>
+    <string name="enableBeep_title">enableBeep</string>
+    <string name="enableBeep_summary">Beep when IC card is read</string>
+    <string name="readKumadaiID_title">readKumadaiID</string>
+    <string name="readKumadaiID_summary">Read KumadaiID in IC Card</string>
+    <string name="readerName_title">readerName</string>
+    <string name="readerName_summary">The nickname of this reader</string>
+    <string name="lockNumber_title">lockNumber</string>
+    <string name="lockNumber_summary">Reader lock number</string>
+    <string name="logDelete_title">deleteLog</string>
+    <string name="logDelete_summary">Delete FCF log</string>
+    <string name="detectPasori_title">detectPasori</string>
+    <string name="detectPasori_summary">Detect Pasori Reader</string>
+    <string name="msg_now_initializing">Now initializing Pasori</string>
+    <string name="msg_not_opened">Check-in starts later. Wait for a moment.</string>
+    <string name="msg_place_card">Place your card on Pasori Reader.</string>
+    <string name="msg_already_closed">Check-in already closed.</string>
+    <string name="msg_really_delete_log">Do you really delete log ?</string>
+
+    <string name="msg_enter_lockNumber">Enter Lock Number</string>
+    <string name="msg_correct_lockNumber">Lock Number Confirmed.</string>
+    <string name="msg_wrong_lockNumber">Your number is wrong.</string>
+    
+    <string name="msg_loading_data">Loading data ...</string>
+    <string name="msg_no_data_found">No data found.</string>
+    
+    <string name="title_activity_config">ConfigActivity</string>
+    <string name="title_start_time">Start Time</string>
+    <string name="title_end_time">End Time</string>
+    <string name="title_duration_minute">Duration</string>
+    <string name="label_reset">Reset</string>
+    <string name="label_cancel">Cancel</string>
+    
+    <string-array name="duration_list">
+        <item>0</item>
+        <item>1</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+    </string-array>
+
+    <string name="title_activity_challenge">ChallengeActivity</string>
+
+</resources>

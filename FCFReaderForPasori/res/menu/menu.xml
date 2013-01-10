@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/menu" >
+
+    <item
+        android:id="@+id/screenlock"
+        android:showAsAction="always"
+        android:title="@string/screenlock_title"/>
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings_title"/>
+    <item
+        android:id="@+id/quit"
+        android:title="@string/quit_title"/>
+
+</menu>

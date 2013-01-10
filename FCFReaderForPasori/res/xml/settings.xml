@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:defaultValue="UNKNOWN READER"
+        android:key="readerName"
+        android:summary="@string/readerName_summary"
+        android:title="@string/readerName_title" >
+    </EditTextPreference>
+    
+    <Preference
+        android:key="logDeletePreference"
+        android:summary="@string/logDelete_summary"
+        android:title="@string/logDelete_title" />
+
+    <Preference
+        android:key="detectPasoriPreference"
+        android:summary="@string/detectPasori_summary"
+        android:title="@string/detectPasori_title" />
+    
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="enableBeep"
+        android:summary="@string/enableBeep_summary"
+        android:title="@string/enableBeep_title" />
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="readKumadaiID"
+        android:summary="@string/readKumadaiID_summary"
+        android:title="@string/readKumadaiID_title" />
+
+    <EditTextPreference
+        android:defaultValue="00000000000"
+        android:digits="0123456789*#"
+        android:inputType="textPassword"
+        android:key="lockNumber"
+        android:maxLength="11"
+        android:summary="@string/lockNumber_summary"
+        android:title="@string/lockNumber_title" >
+    </EditTextPreference>
+
+
+</PreferenceScreen>

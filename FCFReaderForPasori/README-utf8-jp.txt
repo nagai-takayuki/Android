@@ -64,6 +64,9 @@ FCFキャンパスカード用のICカード読取りソフトです。スタン
 (1)アプリのインストール
 
 	本アプリ(FCFReaderForPaSoRi)をAndroidタブレットにインストールします。
+	Androidタブレットで以下のURIにアクセスし、本アプリのバイナリをダウンロード・インストールしてください:
+	
+	https://github.com/nagai-takayuki/Android/blob/master/FCFReaderForPasori/bin/FCFReaderForPasori.apk
 
 (2)PaSoRiリーダーの接続
 
